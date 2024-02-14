@@ -14,3 +14,4 @@ history: Displays the list of previously executed commands. Example: history
 Shortcuts
 Type few characters and press tab to have the complete word
 ctrl+alt+T - to open terminal
+ctrl+z - to exit from the running program
