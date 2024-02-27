@@ -28,7 +28,7 @@ touch file1.txt
 ```
 cp file1.txt file2.txt
 ```
-3.mv: Move or rename files and directories.
+3. mv: Move or rename files and directories.
 ```
 mv file1.txt directory/
 ```
@@ -57,7 +57,7 @@ tail -n 5 file1.txt
 ```
 9. find: Search for files and directories.
 ```
-find /path/to/search -name "*.txt"
+find /path/to/search -name *.txt
 ```
 10. zip: Package and compress files.
 ```
